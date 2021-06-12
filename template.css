@@ -1,0 +1,53 @@
+body {
+  font-size: 10px;
+  font-family: "Roboto", sans-serif;
+}
+
+.derecha {
+  text-align: right;
+}
+
+.indoor {
+  color: #ff2568 !important;
+}
+
+.datos-socio {
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.logo-indoor {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+.pad {
+  padding: 8px 4px;
+}
+
+.t {
+  border-top: 1px solid black;
+}
+
+.t-titulo {
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.producto {
+  margin-bottom: 5px;
+}
+
+.gracias {
+  font-size: 12px;
+}
+
+.contacto {
+  font-size: 13px;
+}
+
+.info {
+  font-size: 10px;
+}
